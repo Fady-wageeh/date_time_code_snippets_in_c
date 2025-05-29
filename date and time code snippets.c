@@ -38,7 +38,7 @@ struct date_and_time{
     char hours[3];
     char minutes[3];
     char seconds[3];
-    char year[5]
+    char year[5];
 }current_date_and_time;
 
 
