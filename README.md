@@ -1,4 +1,4 @@
-Time function in C language
+# Time function in C language
 
 it captures the time using the time(&t) and saves it in the variable t
 then it prints the current time using ctime(&t),
